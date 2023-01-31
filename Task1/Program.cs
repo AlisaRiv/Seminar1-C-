@@ -8,7 +8,7 @@ int  maxNumber = numberA;
 if (numberB > numberA) {
     maxNumber = numberB;
 }
-Console.Write("max = ");
-Console.WriteLine(maxNumber);
-// Console.WriteLine($"max = {maxNumber}");
+Console.WriteLine($"a= {numberA}; b = {numberB} -> max = {maxNumber}");
+// Console.Write("max = ");
+// Console.WriteLine(maxNumber);
 // Console.WriteLine("max = {0}", maxNumber);
