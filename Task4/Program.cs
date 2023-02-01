@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿/* Напишите программу, которая принимает на вход три числа и выдаёт максимальное
+ из этих чисел. */
+Console.Clear();
 Console.Write("Ведите число A: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.Write("Ведите число B: ");
